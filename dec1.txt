@@ -1,2 +1,5 @@
  world
 hello everyone this is me
+git new 
+first sample
+new sample
